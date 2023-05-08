@@ -1,0 +1,18 @@
+{
+  "name": "vue2-router-generator",
+  "version": "1.0.2",
+  "description": "Generate vue router code based on page files in the specified directory",
+  "main": "lib/index.js",
+  "files": [
+    "lib",
+    "test"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "zuimeiaj",
+  "license": "MIT",
+  "devDependencies": {
+    "glob": "^10.2.2"
+  }
+}
